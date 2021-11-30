@@ -1,0 +1,86 @@
+body{
+    margin: 0 0;
+}
+.rect_main{
+    padding-left: 10px;
+    padding-top: 10px;
+    margin:auto;
+    background: #25537b;
+    color: #FFF;
+    font-family: 'Montserrat';
+    font-size: 60px;
+    font-weight: 600;
+}
+.main_image{
+    width: 500px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.dimg2{
+    width: 500px;
+    margin: 0 auto;
+}
+.img2{
+    width: 500px;
+}
+.img3{
+    width: 100px;
+    margin-left: 10px;
+}
+.text2{
+    font-family: 'Montserrat';
+    text-align: center;
+}
+.flex_main{
+    flex-wrap: wrap;
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+}
+.main_text1{
+    font-family: 'Montserrat';
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+h1{
+    font-family: 'Montserrat';
+    padding-left: 10px;
+}
+h2{
+    font-family: 'Montserrat';
+    padding-left: 10px;
+    font-weight: 500;
+}
+h3{
+    font-family: 'Montserrat';
+    padding-left: 20px;
+    font-size: 45px;
+}
+li{
+    font-family: 'Montserrat';
+}
+.liter{
+    border-style: groove;
+    width: 250px;
+}
+.button{
+    background-color: #D62828;
+    color: #FFF;
+    margin: 10px 10px;
+    border: none;
+}
+.button:hover{
+    background: #F77F00;
+}
+.email{
+    font-family: 'Montserrat';
+    margin-left: 10px;
+}
+/*
+003049
+D62828
+F77F00
+FCBF49
+EAE2B7
+*/
